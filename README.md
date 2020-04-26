@@ -1,15 +1,15 @@
-<p align="center">
-    <h2 align="center">Petrol Minimalist Jekyll Template</h2>
-</p>
+# Petrol Minimalist Jekyll Template
 
 Live demo at https://rasmusgs.com/petrol-jekyll-theme
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+This is a simple and minimalist template for Jekyll for those who likes to eat cake :cake:.
+
+Theme forked from [kopplin](https://github.com/sergiokopplin/indigo), with social links inspired by [murraco](https://github.com/murraco/jekyll-theme-minimal-resume).
 
 ***
 
 <p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    <b><a href="README.md#what-is-inside">What is inside</a></b>
     |
     <b><a href="README.md#setup">Setup</a></b>
     |
@@ -22,11 +22,11 @@ Live demo at https://rasmusgs.com/petrol-jekyll-theme
     <img src="https://raw.githubusercontent.com/rasgs/petrol-jekyll-theme/gh-pages/assets/screen-shot.png" />
 </p>
 
-## What has inside
+## What is inside
 
 - [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [Font-Awesome](https://fontawesome.com/);
 - Tests with [Travis](https://travis-ci.org/);
-- Google Speed: [97/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Frasmusgs.com%2Fpetrol-jekyll-theme%2F);
+- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Frasmusgs.com%2Fpetrol-jekyll-theme%2F);
 - No JS. :sunglasses:
 
 ## Setup
@@ -65,4 +65,4 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 ---
 ## License
 
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+[MIT](https://github.com/rasgs/petrol-jekyll-theme/blob/gh-pages/LICENSE) License © Rasmus Gundorff Sæderup
