@@ -1,9 +1,10 @@
 # main text of home
-name: John Doe
-bio: A man who travels the world eating cake
+title: Rasmus Gundorff Sæderup
+name: Rasmus Gundorff Sæderup
+bio: "A signal processing engineer and hobby photographer who also loves cooking"
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: "A signal processing engineer and hobby photographer who also loves cooking"
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,15 +15,18 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://rasmusgs.com/cv
 
-url: https://koppl.in/indigo
+photography: true
+photograhy-url: "http://rasmusgs.crevado.com/"
+
+url: https://rasmusgs.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-156018377-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,43 +38,36 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # Nessesary for Github Pages to work
-repository: "rasgs/petrol-jekyll-theme"
+repository: "rasgs/rasgs.github.io"
 
 # if you don't have any of social below, comment the line.
 # You can add your own links, using font-awesome icons
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      url: "mailto:rasmus.gs@gmail.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   url: "https://facebook.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/rasmusgs"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/rasgs"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/rasgs"
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Rasmus Gundorff Sæderup
+    bio: "A signal processing engineer and hobby photographer who also loves cooking"
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -89,11 +86,11 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
