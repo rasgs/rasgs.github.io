@@ -63,4 +63,4 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 ---
 ## License
 
-MIT License © Rasmus Gundorff Sæderup
+[MIT](https://github.com/rasgs/petrol-jekyll-theme/blob/gh-pages/LICENSE) License © Rasmus Gundorff Sæderup
