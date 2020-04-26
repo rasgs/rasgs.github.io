@@ -49,9 +49,6 @@ links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://your-website.com"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/rasmusgs"
@@ -61,6 +58,9 @@ links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rasgs"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium-m"
+      url: "https://medium.com/@rasmusgs"
 
 authors:
   johndoe:
