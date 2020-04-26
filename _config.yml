@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://rasmusgs.com/petrol-jekyll-theme
+url: https://rasgs.github.io/petrol-jekyll-theme
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
