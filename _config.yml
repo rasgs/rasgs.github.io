@@ -17,10 +17,14 @@ resume: true
 resume-external: true
 resume-url: https://rasmusgs.com/cv
 
+<<<<<<< HEAD
 photography: true
 photograhy-url: "http://rasmusgs.crevado.com/"
 
 url: https://rasmusgs.com
+=======
+url: https://rasmusgs.com/petrol-jekyll-theme
+>>>>>>> 9d0797d57f0b0e50b0c4c36677070b8f4b5eaad2
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
