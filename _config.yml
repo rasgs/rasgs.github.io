@@ -33,9 +33,11 @@ disqus:
   shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-# if you don't have any of social below, comment the line
-repository               : "rasmusgs/rasmusgs.github.io"
-github                   : [metadata]
+# Nessesary for Github Pages to work
+repository: "rasgs/petrol-jekyll-theme"
+
+# if you don't have any of social below, comment the line.
+# You can add your own links, using font-awesome icons
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -75,7 +77,8 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
-theme-color: "#0477bf"
+# This is the hex code which determines the color theme of the site
+theme-color: "#2E93A4"
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
