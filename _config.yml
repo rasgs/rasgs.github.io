@@ -44,7 +44,7 @@ repository: "rasgs/rasgs.github.io"
 # You can add your own links, using font-awesome icons
 links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:rasmus.gs@gmail.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
