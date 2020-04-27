@@ -58,12 +58,12 @@ links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rasgs"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium-m"
-      url: "https://medium.com/@rasmusgs"
+    # - label: "Medium"
+    #   icon: "fab fa-fw fa-medium-m"
+    #   url: "https://medium.com/@rasmusgs"
 
 authors:
-  johndoe:
+  Rasmusgs:
     name: Rasmus Gundorff Sæderup
     bio: "A signal processing engineer and hobby photographer who also loves cooking"
     external-image: false
