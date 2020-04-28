@@ -124,9 +124,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  # - jemoji
-  # - jekyll-admin
-  - jekyll-paginate
+  - jemoji
+  - jekyll-admin
+  - jekyll-paginate-v2
   - jekyll-sitemap
 
 jekyll-mentions:
