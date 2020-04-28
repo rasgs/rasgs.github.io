@@ -61,7 +61,7 @@ links:
 authors:
   johndoe:
     name: John Doe
-    bio: A Man who travels the world eating noodles
+    bio: A man who travels the world eating cake
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
@@ -127,8 +127,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  # - jemoji
-  # - jekyll-admin
+  - jemoji
+  - jekyll-admin
   - jekyll-paginate-v2
 
 jekyll-mentions:
