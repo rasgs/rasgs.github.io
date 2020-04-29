@@ -4,43 +4,42 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a signal processing research engineer from Denmark, working at Viewcare A/S. I received my bachelor's degree in electrical engineering from Aalborg University in 2016, and my master's degree in signal processing in 2018.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- research interests -->
 
-<h2>Skills</h2>
+<!-- spare time -->
+<!-- aausat
+cooking
+photograhy -->
+
+
+</p>
+
+
+<h2>Skills & Interests</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Statistical signal processing</li>
+    <li>Digital signal processing</li>
+    <li>Machine learning & artificial intelligence</li>
+    <li>Satellite systems and satellite communications</li>
+    <li>Scientific communication & outreach</li>
+    <li>Biomedical Engineering</li>
+    <li>Embedded programming</li>
+    <li>FPGA development</li>
+    <li>User interface design</li>
+    <li>Cooking & baking</li>
+    <li>Photography</li>
+    <li>Visual Communication & graphic design</li>
+    <li>Quantum Computing</li>
+    <li>Website design (Jekyll, HTML, CSS, SASS) </li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://dspcookbook.github.io/">The Digital Signal Processing (DSP) Cookbook</a></li>
+	<li><a href="https://github.com/aausat">Software Defined Radio (SDR) for a cubesat</a></li>
+	<li><a href="https://github.com/rasgs/petrol-jekyll-theme">Petrol: A minimalist Jekyll theme</a></li>
 </ul>
