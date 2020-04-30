@@ -4,6 +4,8 @@
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
+{% include nav.html %}
+
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
@@ -22,5 +24,3 @@
         {% include social-links.html %}
     </header>
 {% endif %}
-
-{% include nav.html %}
