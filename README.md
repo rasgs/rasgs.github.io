@@ -4,6 +4,8 @@ Live demo at https://rasmusgs.com/petrol-jekyll-theme
 
 This is a simple and minimalist template for Jekyll for those who likes to eat cake :cake:.
 
+Theme now supports **dark mode**! Try it in a browser supporting dark mode, e.g. Chrome or Safari. Dark colors are of course customizable. 
+
 Theme forked from [kopplin](https://github.com/sergiokopplin/indigo), with social links inspired by [murraco](https://github.com/murraco/jekyll-theme-minimal-resume).
 
 ***
