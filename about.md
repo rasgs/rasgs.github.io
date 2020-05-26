@@ -4,7 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I'm a signal processing research engineer from Denmark, working at Viewcare A/S. I received my bachelor's degree in electrical engineering from Aalborg University in 2016, and my master's degree in signal processing in 2018.
+<p>I'm a signal processing research engineer from Denmark, working at Viewcare A/S. I received my bachelor's degree in electrical engineering in 2016, and my master's degree in signal processing in 2018, both from Aalborg University.
+</p>
+<p>
+In my spare time I love traveling, photography, cooking and being with my friends and family.
 
 <!-- research interests -->
 
@@ -17,19 +20,26 @@ photograhy -->
 </p>
 
 
-<h2>Skills & Interests</h2>
+<h2>Technical skills</h2>
 
 <ul class="skill-list">
 	<li>Statistical signal processing</li>
     <li>Digital signal processing</li>
-    <li>Machine learning & artificial intelligence</li>
+    <li>Machine learning & data science</li>
     <li>Satellite systems and satellite communications</li>
-    <li>Scientific communication & outreach</li>
-    <li>Biomedical Engineering</li>
+    <li>Biomedical engineering</li>
     <li>Embedded programming</li>
     <li>FPGA development</li>
-    <li>User interface design</li>
+</ul>
+
+
+<h2>Interests</h2>
+
+<ul class="interest-list">
+
+    <li>Scientific communication & outreach</li>
     <li>Cooking & baking</li>
+    <li>Travel</li>
     <li>Photography</li>
     <li>Visual Communication & graphic design</li>
     <li>Quantum Computing</li>
