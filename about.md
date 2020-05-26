@@ -20,7 +20,7 @@ photograhy -->
 </p>
 
 
-<h2>Technical skills</h2>
+<h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>Statistical signal processing</li>
