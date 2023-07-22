@@ -26,7 +26,7 @@ url: "https://rasmusgs.com"
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'G-FWZ2DSW0NE'
+analytics-google: 'G-B6VFW0YGNF'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
