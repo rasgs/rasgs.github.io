@@ -22,7 +22,6 @@ Theme forked from [kopplin](https://github.com/sergiokopplin/indigo), with socia
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/rasgs/petrol-jekyll-theme/gh-pages/assets/screen-shot.png" />
-    <img src="https://raw.githubusercontent.com/rasgs/petrol-jekyll-theme/gh-pages/assets/screen-shot-dark.png" />
 </p>
 
 ## What is inside
@@ -61,50 +60,11 @@ picture: 'assets/images/profile.jpg'
 and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
 ```
 
-Colors can be customized in `_sass -> base -> variables.sass`:
+Colors can be customized in `_sass -> base -> variables.sass` and `_sass -> base -> variables-dark.sass`:
 
 ```
 // theme main color (petrol blue)
 $delta: #2E93A4 !default
-
-// subtitle color
-$gamma: #999
-
-\:root
-  // headlines
-  --page-title: #222
-  // main text
-  --page-main: #666
-  // accents
-  --epsilon: #f0f0f0
-
-/* Light mode */
-@media (prefers-color-scheme: light)
-  \:root
-      --page-title: #222
-      --page-main: #666
-      --epsilon: #f0f0f0
-  body
-      background-color: white
-
-/* Dark mode */
-@media (prefers-color-scheme: dark)
-  \:root
-      --page-title: #ddd
-      --page-main: #bbb
-      --epsilon: #333
-
-  body
-      background-color: #151515
-
-  img
-    opacity: .75
-    transition: opacity .5s ease-in-out
-
-
-  img:hover
-    opacity: 1
-
 ```
 
 
